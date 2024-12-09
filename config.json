@@ -1,0 +1,26 @@
+{
+    "media": [
+        {
+            "path": "/home/shibil/Downloads/coding1.mp4",
+            "duration": 5
+        },
+        {
+            "path": "/home/shibil/Downloads/image1.jpg",
+            "duration": 3
+        },
+        {
+            "path": "/home/shibil/Downloads/coding3.jpg",
+            "duration": 3
+        }
+    ],
+    "overlays": [
+        {
+            "path": "/home/shibil/Downloads/logo.png",
+            "media_index": 0,
+            "start": 1,
+            "duration": 2,
+            "x": 50,
+            "y": 50
+        }
+    ]
+}
